@@ -1,3 +1,5 @@
-print("Hello world")
+from main import test
 
-print("Hi Sakthi")
+
+def test_git():
+    print("hi")
