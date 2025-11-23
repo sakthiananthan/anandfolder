@@ -1,5 +1,5 @@
+from main import test
 
-print("Hi Anand")
 
-
-print("new line")
+def test_git():
+    print("hi")
